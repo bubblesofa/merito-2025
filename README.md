@@ -1,3 +1,3 @@
 # merito-2025
-Dzień dobry, mój pierwszy projekt!
 plik zedytowany na remote
+plik zmodyfikowany na branch-bartosz
